@@ -1,0 +1,46 @@
+* {
+  box-sizing: border-box;
+}
+
+header{
+  height: 50px;
+}
+
+header nav {
+  margin-top: 10px;
+}
+
+header h5 {
+  margin-top: 8px;
+}
+
+.column {
+  background: tomato;
+  text-align: center;
+  padding: 15px;
+  margin-bottom: 15px;
+}
+
+.section {
+  min-height: 60vh;
+  padding-top:5vh;
+}
+
+.main {
+  background: lightblue;
+}
+
+.photo {
+  padding: 0px;
+}
+
+.section-sm {
+  padding: 10vh 0;
+  text-align: center;
+  height: 450px;
+}
+
+footer {
+  background: lightblue;
+  padding: 50px;
+}
