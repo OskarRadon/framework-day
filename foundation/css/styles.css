@@ -1,0 +1,11 @@
+.columns {
+  min-height: 10vh;
+  background: white;
+  opacity: 0.4;
+}
+body {
+  background-image: url("https://brandontgj2o.files.wordpress.com/2012/10/ocean-300.jpg");
+  background-size: cover;
+  /*background-position: cover;*/
+  background-repeat: no-repeat;
+}

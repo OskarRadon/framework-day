@@ -15,14 +15,14 @@ header h5 {
 }
 
 .column {
-  background: tomato;
+  /*background: tomato;*/
   text-align: center;
   padding: 15px;
   margin-bottom: 15px;
 }
 
 .section {
-  min-height: 60vh;
+  min-height: 50vh;
   padding-top:5vh;
 }
 
