@@ -14,6 +14,16 @@ header h5 {
   margin-top: 8px;
 }
 
+nav a {
+  color: tomato;
+  margin-left: 20px;
+  text-decoration: none;
+}
+
+nav a:hover {
+  color: lightblue;
+}
+
 .column {
   /*background: tomato;*/
   text-align: center;
@@ -32,6 +42,16 @@ header h5 {
 
 .photo {
   padding: 0px;
+}
+
+button.button-primary,
+button.button-primary:hover {
+  background-color: lightblue;
+  border: none;
+}
+
+button.button-primary:hover {
+  color: black;
 }
 
 .section-sm {
